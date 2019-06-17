@@ -1,0 +1,3 @@
+Both of these submissions are written in JavaScript and run through node.
+They do not require any external dependencies such as NPM packages.
+Be sure to run both of these files using the command "node <file>" from the directory that the file exists in (not the root directory of all the folders).
